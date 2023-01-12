@@ -7,6 +7,7 @@
 
 import Foundation
 
+
 enum GameState {
     case start
     case win
